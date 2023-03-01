@@ -1,0 +1,28 @@
+body{
+    font-family: 'Spartan', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("./3405.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#clock{
+    margin: 100px auto;
+    text-align: center;
+    padding: 5px;
+}
+
+#clock h2{
+    color: rgba(8, 103, 186, 0.888);
+    font-size: 30px;
+}
+
+#clock-content{
+    color: rgba(4, 34, 61, 0.947);
+    font-size: 60px;
+    padding: 5px;
+    width: 400px;
+    margin: 10px auto;
+    
+}
